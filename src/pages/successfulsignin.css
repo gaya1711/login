@@ -1,0 +1,16 @@
+.page_login{
+    background-image: url("https://i.pinimg.com/originals/e5/9c/82/e59c829455bd9cdc12930cb72c7253f3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.content{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    padding-top : 40vh;
+    padding-bottom: 50vh;
+    color : white;
+    font-weight: 600;
+    font-size: 50px;
+}

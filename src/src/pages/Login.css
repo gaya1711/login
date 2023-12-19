@@ -1,0 +1,75 @@
+.welcome_message{
+    align-items: center;
+    color : white; 
+  }
+  
+  .welcome_heading{
+    padding-top: 250px;
+    padding-left: 180px;
+    font-weight: 600;
+    font-size: 80px;
+  }
+  
+  .login_message{
+    font-weight: 500;
+    font-size: 30px;
+    padding-top: 15px;
+    padding-left: 170px;
+  }
+  
+  .signin_container{
+  
+    padding-top: 0%;
+    width: 400px;
+    height: 500px;
+    margin-right: 170px;
+    margin-top: 70px;
+    background-color: white;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);;
+    border-radius: 15px;
+    
+  }
+  
+  .display_login{
+    display: flex;
+    justify-content: space-between;
+    min-height: 100vh;
+    background-image: url("https://www.wallpapertip.com/wmimgs/14-144041_aesthetic-wallpaper-desktop.jpg");
+    background-repeat: no-repeat;
+    background-size:  100% 100vh
+  }
+  
+  .signindeclare{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    padding-top: 20px;
+    margin: 0 auto;
+  }
+  
+  .icons{
+  
+    padding-top: 15px;
+    margin-left : 120px;
+    width: 70%;
+  
+  }
+  
+  .btn{
+    margin-top: 15px;
+    padding: 14px 40px;
+    
+  }
+  
+  .signup_message{
+    text-align:center;
+    margin-top: 30px;
+  }
+  
+  .signup_btn{
+  
+    padding: 10px 24px;
+    width: 30%;
+    margin-top: 30px;
+    margin-left : 150px;
+  }

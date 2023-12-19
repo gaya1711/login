@@ -1,0 +1,14 @@
+.page{
+    background-image: url("https://w0.peakpx.com/wallpaper/323/210/HD-wallpaper-night-mountains-minimalist-8k-mountains-minimalism-minimalist-artist-artwork-digital-art-dark-black.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.content_signup{
+    padding-left: 100px;
+    padding-top : 40vh;
+    padding-bottom: 60vh;
+    color : white;
+    font-weight: 600;
+    font-size: 50px;
+}
